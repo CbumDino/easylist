@@ -1,7 +1,7 @@
 -fb-notification/
 -push-notification.$domain=~github.com
 -push-notification/$domain=~github.com
--push-notifications/
+-push-worker-
 /amp-user-notification-
 /amp-web-push-
 /assets/www/notification.
@@ -13,10 +13,12 @@
 /FeedifySW.js
 /flying_push.
 /get_onesignal_
+/gm-push-notification-
 /ilabspush.
 /imports/notifications.
 /inpl.webpush.
 /jquery-notification.
+/jsb/pushnotifications?
 /maximizly-push.
 /modules/notifications.$domain=~forum.vivaldi.net
 /mp-web-notification.
@@ -40,8 +42,11 @@
 /onesignal/manifest.
 /onesignalfix.
 /OneSignalSDK-
+/OneSignalSDKUpdaterWorker.
 /OneSignalSDKWorker.
 /openpushwoosh_
+/perfecty-push-
+/plugins/tfnotifier-wp/*
 /plugins/wp-notification-bars/*
 /prpushsw.
 /push-notification-
@@ -106,6 +111,7 @@
 /webpush-production.js
 /webpush.
 /webpush/*
+/webpush_register.
 /webPushIframe.
 /webPushNotifications.
 /wonderpush,
@@ -120,4 +126,4 @@ _revotas_push.
 /js/jquery.smartbanner.js|
 /js/jquery.smartbanner.min.js|
 /mobile-welcome-overlay/*$script
-/smartbanner.js
+/smart-app-banner.js

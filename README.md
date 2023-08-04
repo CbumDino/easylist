@@ -4,7 +4,8 @@ These lists are maintained by Fanboy (a.k.a. ryanbr), MonztA, and Khrin.
 
 ## EasyList
 
-The goal of this repository is to block ads on English and International sites. First-party ads (that don't link, or passthrough to 3rd-party sites) won't be targeted directly. By blocking the following:
+The goal of this repository is to block [ads](https://easylist.to/2011/07/11/the-definition-of-advert-and-link-exchange-policy.html) on English and International sites. [Self-promotion](## "Self-promotion is any type of advertising that promotes goods or services that are owned or operated by the domain owner and doesn’t get commercially compensated for by third parties (examples can include new features, new posts, newsletters, subscriptions to printed media products, merchandise etc.)") [^1] won't be targeted directly. By blocking the following:
+
  - Ad scripts (Generic and site-specific)
  - Ad images 
  - Text/CSS ads
@@ -32,6 +33,16 @@ For legal reasons, Anti-adblock this will only cover:
  - File or Link hosting/sharing
  - Streaming/Torrent/Comic sites
  - Any historical anti-adblock rules
+
+## Abusive adservers are classed as ad or tracking providers that continously deploys new revolving domains to evade Easylist or Easyprivacy. 
+ - Using "Revolving domains" with harmful javascript and popups.
+ - We are are an adblock and privacy list.
+ - Montoring Easylist Github commits to then circumvent adblock filters with changing/revolving domains or scripts.
+ - Adcompanies websites have no useful purporse for Easylist/Easyprivacy users except trying to create more counters and more spam domains.
+ - It doesn't matter if the source domain is a different domain. We don't care.
+ - Will be blocked without warning.
+ - If you're an Abusive Ad company, disable Easylist. 
+ - If the domain changes we will update the filters.
 
 ## EasyPrivacy
 
@@ -84,6 +95,12 @@ If your site was added to EasyList or EasyPrivacy:
  - Filters will not be removed on your word or policy (both can change).
  - The specific commit in question, or specific filter.
  - Is it covered by any of the EasyList/EasyPrivacy requirements?
+ - No, we don't want talk.
+ - If specific filter(s) won't be removed, continuing arguing will be ignored. Email will be flagged and ignored.
+ - We won't rush any decision. 
+ - Arguing, harassment or abuse of any kind won't be tollerated, Email will be flagged and ignored. 
+ - If the site is covered by policy in this [README.md](https://github.com/easylist/easylist/blob/master/README.md). The filter will be very unlikely to be removed. Making exception to the rules, could or would allow everyone else. So strict enforcement.
+ - If already decided that a filter won't be removed or changed, emailing again won't change the decision. Email will be flagged and ignored.
  
 For any issues or questions, create a ticket: [Github](https://github.com/easylist/easylist/issues) [E-mail](mailto:easylist@protonmail.com), or via [Forum](https://forums.lanik.us/).
 
@@ -91,3 +108,4 @@ For any issues or questions, create a ticket: [Github](https://github.com/easyli
 
 EasyList, EasyPrivacy, and Fanboy lists are used in a number of extensions and browsers such as [Adblock Plus](https://adblockplus.org/), [uBlock Origin](https://github.com/gorhill/uBlock), [AdBlock](https://getadblock.com/), [AdGuard](https://adguard.com/), [Brave](https://brave.com/), [Opera](https://www.opera.com/), and [Vivaldi](https://vivaldi.com/).
 
+[^1]: Self-promotion is any type of advertising that promotes goods or services that are owned or operated by the domain owner and doesn’t get commercially compensated for by third parties (examples can include new features, new posts, newsletters, subscriptions to printed media products, merchandise etc.)
